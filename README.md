@@ -1,4 +1,8 @@
 # googlephotos
+
+This is a working application but will also be continuously worked on
+I created this as a class because I want to add other functionality later.
+
 simple class to get google photos from a google drive folder
 
 1. in google drive navigate to  the folder containing the photos/images to be displayed.
